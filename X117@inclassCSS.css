@@ -1,0 +1,40 @@
+* {
+
+    font-family: comic sans ms;
+}
+
+.heading {
+    font-size: 33px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.hd {
+    float: none;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+
+.hd2 {
+    font-size: 18px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 35px teal;
+    margin-top: 150px;
+}
+
+footer {
+
+    margin-top: 450px;
+    font-size: 20px;
+    background-color: gray;
+    color: #fff;
+}
